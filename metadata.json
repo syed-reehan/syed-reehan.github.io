@@ -1,0 +1,8 @@
+{
+  "name": "Syed Reehan Portfolio",
+  "description": "Developer portfolio and AI utility builder personal brand site for Syed Reehan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
